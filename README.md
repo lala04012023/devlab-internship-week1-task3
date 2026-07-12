@@ -90,6 +90,17 @@ The project includes:
 * Revenue trends provide valuable insights for business planning and inventory management.
 
 ---
+## Business Insights
+1. The highest revenue categories should receive greater inventory investment and marketing support.
+
+2. Shopping malls with stronger revenue performance can be used as benchmarks for improving lower-performing locations.
+
+3. Understanding customer payment preferences can improve payment services and customer experience.
+
+4. Different spending patterns between male and female customers provide opportunities for targeted promotions.
+
+5. Revenue trends across 2021–2023 help management forecast demand and make strategic business decisions.
+
 
 ## Author
 
